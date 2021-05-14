@@ -41,3 +41,7 @@ Type the following into your terminal or command line to copy this repository:
 
 ## Heroku Link 
 https://fierce-harbor-58451.herokuapp.com/
+
+
+[![Capture1.png](https://i.postimg.cc/ZqB84dbd/Capture1.png)](https://postimg.cc/t1bZz7Vq)
+[![Capture2.png](https://i.postimg.cc/j2snwwbv/Capture2.png)](https://postimg.cc/47Sxj3nh)
